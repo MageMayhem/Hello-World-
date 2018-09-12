@@ -1,2 +1,9 @@
-# Hello-World-
-project for C#
+// Start main funtion
+#include <stdio.h>
+
+int main ( )
+{
+
+printf( "Hello World and C# class" );
+
+}
